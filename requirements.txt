@@ -1,0 +1,6 @@
+googletrans==3.0.0
+numpy==1.18.1
+streamlit==0.65.2
+easyocr==1.1.7
+gTTS==2.1.1
+Pillow==7.2.0
