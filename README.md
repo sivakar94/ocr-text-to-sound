@@ -1,9 +1,9 @@
-# ocr-text-to-sound
+# OCR-TEXT-TO-SOUND
 
-# TASK
+## TASK
 
-# DATASET
+## DATASET
 
-# METHOD
+## METHOD
 
-# RESULT
+## RESULT
